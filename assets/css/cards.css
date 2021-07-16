@@ -120,5 +120,17 @@
       text-align: center;
     }
   }
+
+  @media (min-width:320px) {
+    .services {
+      display: block;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      height: 150vh;
+      display:inline-block;
+      text-align: center;
+    }
+  }
   
  
