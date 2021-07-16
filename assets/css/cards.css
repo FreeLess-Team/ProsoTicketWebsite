@@ -109,29 +109,24 @@
     cursor: pointer;
   }
   
-  @media (min-width:480px) {
-    .services {
-      display: block;
-      flex-direction: column;
-      justify-content: center;
-      align-items: center;
-      height: 150vh;
-      display:inline-block;
-      text-align: center;
-    }
-  }
 
-  @media (min-width:320px) {
+  @media (min-width:320px) and (max-width: 700px){
     .services {
-      display: block;
+      display: flex;
       flex-direction: column;
       justify-content: center;
       align-items: center;
-      height: 100vh;
+      height: 200vh;
       display:inline-block;
       text-align: center;
     }
   }
+    
+  
+    
+    
+  
   
   
  
+  
