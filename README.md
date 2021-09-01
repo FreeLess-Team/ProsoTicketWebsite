@@ -1,5 +1,5 @@
 # PROSOTICKET
-A advanced ticket system for discord servers! Made with ❤️
+A advanced ticket system for discord servers! Made with ❤️ (free to use)
 [Support Server!](https://discord.gg/5tjpcTt4pE)
 
 # CREDITS
